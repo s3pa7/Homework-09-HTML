@@ -1,0 +1,128 @@
+@CHARSET "UTF-8";
+
+body {
+font-family: Verdana, Arial, Helvetica, sans-serif; 
+ color: #000000;  
+ font-size: 11px;  
+ font-style: dark;  
+ text-decoration: none;
+ }
+ 
+.cvTable {
+	width:980px;
+	}
+.rowTitleView {
+	font-weight:normal;
+	padding-top:5px;
+	padding-bottom:5px;
+	padding-right:10px;
+	padding-left:10px;
+	text-align:right;
+	width:30%;
+	border-right:1px solid #000000;
+}
+.rowDataView {
+	font-weight:bold;
+	padding-top:5px;
+	padding-bottom:5px;
+	padding-right:10px;
+	padding-left:10px;
+	text-align:left;
+	line-height:14px;
+	width:70%;
+}
+.rowDataViewNormal {
+	font-weight:normal;
+	padding-top:5px;
+	padding-bottom:5px;
+	padding-right:10px;
+	padding-left:10px;
+	text-align:left;
+	line-height:14px;
+	width:70%;
+}
+.spanDataView {
+	font-weight:normal;
+}
+.spanDataViewGrey {
+	font-weight:normal;
+	color:#999999;
+}
+#printDiv{
+	display:block;
+}
+.evropean-pic {
+	width: 10%;
+}
+table tr.print {
+	text-align:right;
+	
+}
+#printDiv {
+	width:350px;
+}
+.a {
+	padding-top:3px;
+	padding-left:1px;
+	float:right;
+}
+.c {
+	padding-top:8px;
+	padding-left:1px;
+	float:left;
+}
+.d {
+	height:20px;
+	width:21px;
+	float:left;
+	padding-left:15px;
+	text-align: left;
+}
+.b {
+	height:20px;
+	width:21px;
+	float:right;
+	padding-left:15px;
+	text-align: right;
+}
+.row-title-view {
+	width: 200px;
+	text-align:left;
+	border-right: 1px solid #000000;
+	font-weight: normal;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-right: 10px;
+    padding-left: 10px;
+    text-align: right;
+    border-right: 1px solid #000000;
+}
+.workHard {
+	font-size:15px;
+	font-weight:bold;
+}
+.td-backcolor-padding {
+	background-color:#FFFFFF;
+	padding:3px;
+}
+.euro-format {
+	font-size:21px;
+	font-weight:normal;
+}
+.table-language {
+	cellspacing=1;
+	cellpadding=0;
+	border=0;
+	background-color:#cccccc;
+}
+.button {
+  font: bold 11px Arial;
+  text-decoration: none;
+  background-color: #EEEEEE;
+  color: #333333;
+  padding: 2px 6px 2px 6px;
+  border-top: 1px solid #CCCCCC;
+  border-right: 1px solid #333333;
+  border-bottom: 1px solid #333333;
+  border-left: 1px solid #CCCCCC;
+}

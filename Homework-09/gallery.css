@@ -1,0 +1,51 @@
+@CHARSET "UTF-8";
+body {
+	background-image:
+	url("https://img2.goodfon.ru/original/2560x1440/5/a4/tekstura-fon-cvet-chernyy.jpg");
+}
+div.img {
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: right;
+    width: 600px;
+
+}
+div.imga {
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 600px;
+
+}
+div.imga:hover {
+    border: 1px solid #777;
+    
+}
+div.img:hover {
+    border: 1px solid #777;
+    
+}
+
+div.desc {
+	width: 500px;
+    padding: 30px;
+    text-align: center;
+    display: inline-block;
+    color: #FFFFFF;
+}
+h1 {
+	 text-align: center;
+	 color: #FFFFFF;
+}
+.c {
+	padding-top:8px;
+	padding-left:1px;
+	float:left;
+}
+.d {
+	height:20px;
+	width:21px;
+	float:left;
+	padding-left:15px;
+	text-align: left;
+}

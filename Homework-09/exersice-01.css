@@ -1,0 +1,53 @@
+@CHARSET "UTF-8";
+input  {
+	margin-bottom: 10px; 
+}
+input.p{ 
+    margin-left: 50px;
+}
+input.c {
+	margin-left:87px;
+	width:16%;
+}
+select.d {
+	margin-bottom: 10px; 
+	margin-left:50px;
+}
+input.e {
+	margin-left:68px;
+	width:25%;
+}
+input.region{
+	margin-left:68px;
+	width:20px;
+}
+input.postCode {
+	margin-left:49px;
+	width:72px;
+}
+input.country{
+	margin-left:62px;
+	width:45px;
+}
+input.homePhone {
+	margin-left:30px;
+}
+input.extension  {
+	margin-left:49px;
+	width:45px;
+}
+input.notes {
+	width:38%;
+	height:100px;
+}
+select.manager {
+	margin-bottom: 10px; 
+	margin-left:58px;
+}
+input.password {
+	margin-left:52px;
+}
+input.repeatPassword {
+	margin-left:5px;
+}
+
